@@ -7,6 +7,6 @@ In Expense Tracker we enter details about Description, Category and Amount as ma
 
 And in Expense Summary, whatever details we have submitted in Expense Tracker are shown here.
 
-Live Demo : 
+Live Demo : https://yashsharma228.github.io/Simple-Expense-Tracker-Project/
 
 ![Screenshot 2024-06-25 220040](https://github.com/yashsharma228/Simple-Expense-Tracker-Project/assets/141614148/68a667c6-5a4b-4492-981d-8ec3cf487fc6)
