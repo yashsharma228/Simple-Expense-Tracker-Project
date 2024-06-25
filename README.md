@@ -1,9 +1,9 @@
 # Simple-Expense-Tracker-Project
 Create a new practice project named "Expense Tracker".
 
-This project has two sections, first 'Expense Tracker' and second 'Expense Summary'.
+This project has two sections, first is 'Expense Tracker' and second is 'Expense Summary'.
 
-In Expense Tracker we enter details about Description, Category and Amount and then click on submit button.
+In Expense Tracker we enter details about Description, Category and Amount as many as we want and then click on submit button.
 
 And in Expense Summary, whatever details we have submitted in Expense Tracker are shown here.
 
